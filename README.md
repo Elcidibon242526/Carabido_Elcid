@@ -1,6 +1,6 @@
 # Carabido_Elcid
-*My Top Three favorite Movies are*
+##My Top Three favorite Movies are##
 
--**Taken 1**
--**Taken 2**
--**Taken 3**
+1. **Taken 1**
+2.**Taken 2**
+3. *Taken 3*
